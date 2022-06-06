@@ -4,7 +4,7 @@
   <h4> She / Her :woman: </h4>
 </div>
 <p align="center">Currently an undergraduate pursuing Bachelors in Technology in Computer Science and Engineering from Mody University, India. 
-<p align="center">Fast lerner and a smart working person. Full stack developer and aiming to become a Data scientist. Want to find the right exposure and grow. Wish to contribute to the society with my technical skills.
+<p align="center">Fast learner and a smart working person. Full stack developer and aiming to become a Data Scientist. Want to find the right exposure and grow. Wish to contribute to the society with my technical skills.
 
 ---
 ## :iphone: Let's Connect 
