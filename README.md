@@ -4,6 +4,7 @@
   <h4> She / Her :woman: </h4>
 </div>
 <p align="center">Currently an undergraduate pursuing Bachelors in Technology in Computer Science and Engineering from Mody University, India. 
+<p align="center">Apart from this, Also have <b> a Work Experience working as a web developer in Django[Python] in a company named SWPL. </b>
 <p align="center">Fast learner and a smart working person. Full stack developer and aiming to become a Data Scientist. Want to find the right exposure and grow. Wish to contribute to the society with my technical skills.
 
 ---
@@ -13,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvivrati@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManviVrati)
 
----
+
 ## :computer: Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen.png)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
